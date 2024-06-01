@@ -1,6 +1,9 @@
-## Hi there 👋
-I'm Omar Jabloun, a passionate software developer with expertise in various programming languages and frameworks. I have a strong background in software engineering, and I'm always eager to learn new technologies and improve my skills.
+<h1 align="center">Hi 👋, I'm Omar Jabloun</h1>
+<h3 align="center">Software Engineering Student</h3>
 
+<h3>What I Do</h3>
+
+- 🌐 **Web Development:** Crafting responsive and dynamic web applications using cutting-edge technologies.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-jabloun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-jabloun" height="30" width="40" /></a>
